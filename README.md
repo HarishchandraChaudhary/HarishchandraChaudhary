@@ -1,63 +1,106 @@
 # 👋 Hi, I'm Harishchandra Chaudhary
 
-### 🚀 Machine Learning Engineer | AI Developer | Full Stack Developer
+### 🚀 Senior Software Engineer | AI & Machine Learning Engineer | Full Stack Developer
 
-Passionate about building scalable applications, intelligent systems, and AI-powered solutions using modern technologies and best engineering practices.
+Designing intelligent, scalable, and high-performance software solutions with expertise in Artificial Intelligence, Machine Learning, and Modern Full Stack Development.
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-* 🔭 Working on Machine Learning, Generative AI, and Full Stack Development
-* 🌱 Continuously learning and applying AI, Deep Learning, LLMs, and Cloud Technologies
-* 👯 Open to collaborating on AI, Machine Learning, and Open Source Projects
-* 💡 Interested in solving real-world problems through technology and innovation
-* ⚡ Building scalable and efficient software solutions
+* Senior Software Engineer specializing in AI, Machine Learning, and Full Stack Development.
+* Experienced in designing scalable applications, intelligent systems, and enterprise-grade solutions.
+* Passionate about leveraging technology to solve complex business challenges and drive innovation.
+* Strong focus on software architecture, system optimization, automation, and emerging technologies.
+* Committed to continuous learning, technical excellence, and delivering impactful solutions.
 
-## 🛠️ Tech Stack
+## 🛠️ Core Technologies
 
-### Languages
+### Programming Languages
 
-Python • JavaScript • SQL • HTML • CSS 
+* Python
+* JavaScript
+* SQL
+* HTML5
+* CSS3
 
-### Backend
+### Frontend Development
 
-FastAPI • Flask • Django • Node.js • REST APIs
+* React.js
+* JavaScript (ES6+)
+* Bootstrap
+* Tailwind CSS
+* Responsive Web Design
 
-### Frontend
+### Backend Development
 
-React.js • JavaScript • Bootstrap • Tailwind CSS
+* FastAPI
+* Flask
+* Django
+* REST APIs
+* Microservices Architecture
 
-### AI & Machine Learning
+### Artificial Intelligence & Machine Learning
 
-Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • LLMs • TensorFlow • PyTorch • Scikit-Learn
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* Computer Vision
+* Generative AI
+* Large Language Models (LLMs)
+* RAG Systems
+* TensorFlow
+* PyTorch
+* Scikit-Learn
 
 ### Databases
 
-MySQL • PostgreSQL • MongoDB • SQLite
+* MySQL
+* PostgreSQL
+* MongoDB
+* SQLite
 
-### Tools & Platforms
+### DevOps & Tools
 
-Git • GitHub • Docker • Linux • VS Code
+* Git
+* GitHub
+* Docker
+* Linux
+* VS Code
+
+## 🎯 Areas of Expertise
+
+* Artificial Intelligence & Machine Learning Solutions
+* Full Stack Application Development
+* Enterprise Software Development
+* Intelligent Automation Systems
+* API Design & Integration
+* Cloud-Native Application Development
+* Data-Driven Decision Systems
 
 ## 🚀 Current Focus
 
+* Generative AI & LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* AI-Powered Enterprise Solutions
+* Intelligent Automation Platforms
 * Machine Learning Engineering
-* AI-Powered Applications
-* Generative AI & LLMs
-* RAG Systems
-* Intelligent Automation
-* Full Stack Development
+* Scalable Software Architecture
 
-## 📈 GitHub Stats
+## 🤝 Open to Collaborate On
 
-Always learning, building, and contributing to innovative projects.
+* AI & Machine Learning Projects
+* Open Source Contributions
+* Enterprise Software Solutions
+* Full Stack Development Projects
+* Research & Innovation Initiatives
 
 ## 📫 Connect With Me
 
-## 🌐 Professional Profiles
+### 🌐 Professional Profiles
 
 * GitHub: https://github.com/HarishchandraChaudhary
 * LinkedIn: https://www.linkedin.com/in/harishchandra-chaudhary
 * Email: [harishchaudhary.dev@gmail.com](mailto:harishchaudhary.dev@gmail.com)
 
+---
 
-⭐ Building intelligent and scalable software solutions powered by AI, Machine Learning, and modern Full Stack technologies.
+⭐ Engineering intelligent, scalable, and future-ready software solutions through Artificial Intelligence, Machine Learning, and Modern Software Development.
