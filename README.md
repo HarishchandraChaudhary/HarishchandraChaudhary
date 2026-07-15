@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harishchandra Chaudhary
 
-### 🚀 Senior Software Engineer | AI & Machine Learning Engineer | Full Stack Developer
+### 🚀 Software Engineer | AI & Machine Learning Engineer | Full Stack Developer
 
 Designing intelligent, scalable, and high-performance software solutions with expertise in Artificial Intelligence, Machine Learning, and Modern Full Stack Development.
 
